@@ -14,13 +14,6 @@ The goal of the Azure-Hosted Online Food Blog project is to provide a vibrant, u
 
 # Core Azure Services :
 
-
- 
-
-
-
-
-
 -  **Azure App Service (for hosting the website)**
 - **Virtual Networking**
 - **Virtual Networking Integration**
@@ -67,19 +60,31 @@ The goal of the Azure-Hosted Online Food Blog project is to provide a vibrant, u
 
 # Screenshots of some Azure Services :
 
+- **Resource Group**
+  
 ![a](https://github.com/aakashrsethi/vaibhavi/assets/110621778/d02bcfe5-f924-4f3a-a682-b2314d99c069)
 
-
+- **App Services**
+  
 ![b](https://github.com/aakashrsethi/vaibhavi/assets/110621778/ee13c9d0-996f-40b7-953b-16ba75e3b23b)
 
+- **Virtual Network**
+  
 ![c](https://github.com/aakashrsethi/vaibhavi/assets/110621778/e98f0a16-ed23-473c-98d8-e33e7b50dd75)
 
+- **Virtual Network Integration**
 ![d](https://github.com/aakashrsethi/vaibhavi/assets/110621778/7c54b88b-8958-4676-b329-9e26e2ff675d)
 
+- **Language Services**
+  
 ![e](https://github.com/aakashrsethi/vaibhavi/assets/110621778/e34d80cf-576b-467a-a1a2-75251233a4cb)
 
+- **Azure Bot Service**
+  
 ![f](https://github.com/aakashrsethi/vaibhavi/assets/110621778/6cd1ff83-a625-4800-a060-7ce7ceb177f5)
 
+- **Application Insights**
+  
 ![g](https://github.com/aakashrsethi/vaibhavi/assets/110621778/f0207479-020e-49e8-bbfa-03fcb0557917)
 
 
