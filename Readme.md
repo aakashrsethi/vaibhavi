@@ -52,5 +52,28 @@ Core Azure Services :
 - **Code : [https://github.com/aakashrsethi/vaibhavi.git**](https://github.com/aakashrsethi/vaibhavi.git)**
 - **Project Documentation url:** [**https://drive.google.com/file/d/1hgPsnxk9O74BBfWMyFD0nTk2E2FGe-2H/view?usp=sharing**](https://drive.google.com/file/d/1hgPsnxk9O74BBfWMyFD0nTk2E2FGe-2H/view?usp=sharing)
 
+**ScreenShots of Some Azure Resources:**
+
+![a](https://github.com/aakashrsethi/vaibhavi/assets/110621778/d02bcfe5-f924-4f3a-a682-b2314d99c069)
+![b](https://github.com/aakashrsethi/vaibhavi/assets/110621778/ee13c9d0-996f-40b7-953b-16ba75e3b23b)
+![c](https://github.com/aakashrsethi/vaibhavi/assets/110621778/e98f0a16-ed23-473c-98d8-e33e7b50dd75)
+![d](https://github.com/aakashrsethi/vaibhavi/assets/110621778/7c54b88b-8958-4676-b329-9e26e2ff675d)
+![e](https://github.com/aakashrsethi/vaibhavi/assets/110621778/e34d80cf-576b-467a-a1a2-75251233a4cb)
+![f](https://github.com/aakashrsethi/vaibhavi/assets/110621778/6cd1ff83-a625-4800-a060-7ce7ceb177f5)
+![g](https://github.com/aakashrsethi/vaibhavi/assets/110621778/f0207479-020e-49e8-bbfa-03fcb0557917)
+
 **ScreenShots of the website after deploying :**
+**Default Page**
+![Screenshot 2024-01-19 215330](https://github.com/aakashrsethi/vaibhavi/assets/110621778/710bcbec-2aa1-42d1-b203-be8b3103716d)
+**About Page**
+![2](https://github.com/aakashrsethi/vaibhavi/assets/110621778/a13d6871-7489-4c2c-b573-1f45b888a58e)
+**Contact Us Page**
+![3](https://github.com/aakashrsethi/vaibhavi/assets/110621778/c202c8f2-7a8a-4954-a452-87eb6fe16d77)
+**Bot Page**
+![4](https://github.com/aakashrsethi/vaibhavi/assets/110621778/0671ba56-7145-48b7-8d29-7d2eeda44391)
+
+
+
+
+
 
