@@ -14,11 +14,12 @@ The goal of the Azure-Hosted Online Food Blog project is to provide a vibrant, u
 
 # Core Azure Services :
 
--  **Azure App Service (for hosting the website)**
+- **Azure App Service (for hosting the website)**
 - **Virtual Networking**
 - **Virtual Networking Integration**
 - **Resource Group**
-- **Monitor Insights**
+- **Application Insights**
+- **API Management**
 
 # Azure AI Services :
 
@@ -46,9 +47,12 @@ The goal of the Azure-Hosted Online Food Blog project is to provide a vibrant, u
 
 # Working Links of Project:
 
-- **Web Application hosted on Azure: https://foodblogproject.azurewebsites.net/** 
+- **Web Application hosted on Azure: https://foodblogproject.azurewebsites.net/**
+  
 - **Github Repository : https://github.com/aakashrsethi/vaibhavi.git**
+  
 - **Code : [https://github.com/aakashrsethi/vaibhavi.git**](https://github.com/aakashrsethi/vaibhavi.git)**
+  
 - **Project Documentation url:** [**https://drive.google.com/file/d/1hgPsnxk9O74BBfWMyFD0nTk2E2FGe-2H/view?usp=sharing**](https://drive.google.com/file/d/1hgPsnxk9O74BBfWMyFD0nTk2E2FGe-2H/view?usp=sharing)
 
 
@@ -87,6 +91,9 @@ The goal of the Azure-Hosted Online Food Blog project is to provide a vibrant, u
   
 ![g](https://github.com/aakashrsethi/vaibhavi/assets/110621778/f0207479-020e-49e8-bbfa-03fcb0557917)
 
+- **API Mnagement**
+  
+![h](https://github.com/aakashrsethi/vaibhavi/assets/110621778/16588a49-8f88-4e8e-a4ff-7e29e837cc23)
 
 
 # ScreenShots of the website after deploying 
