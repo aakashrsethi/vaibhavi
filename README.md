@@ -10,7 +10,7 @@ Building an Online Food Blog Website that will make use of Azure Services and as
 
 # Project Description :
 
-The goal of the Azure-Hosted Online Food Blog project is to provide a vibrant, user-focused online community where foodies can discover, exchange, and enjoy a wide variety of recipes. This project aims to give users and administrators access to a scalable, secure, feature-rich environment by utilising Microsoft Azure's capabilities. The Online Food Blog will function as a thriving centre of the community, providing a smooth and delightful way to find, share, and engage with food-related material.
+The primary objective of the Azure-Hosted Online Food Blog project is to establish a vibrant and user-centric online community. Here, food enthusiasts can explore, exchange, and relish an extensive array of recipes. Leveraging the robust capabilities of Microsoft Azure, the project strives to provide users and administrators with access to a scalable, secure, and feature-rich environment. Positioned as a dynamic epicenter within the community, the Online Food Blog offers a seamless and enjoyable platform for discovering, sharing, and engaging with a diverse range of food-related content.
 
 # Industry Type :
 
