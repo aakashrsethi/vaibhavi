@@ -61,7 +61,6 @@ Lifestyle
   
 - **Project Documentation url:** [**https://drive.google.com/file/d/1hgPsnxk9O74BBfWMyFD0nTk2E2FGe-2H/view?usp=sharing**](https://drive.google.com/file/d/1hgPsnxk9O74BBfWMyFD0nTk2E2FGe-2H/view?usp=sharing)
 
-- **Project Video YRL : https://drive.google.com/file/d/1NYjsWoU40eLWGBystgmOcyKlvkRyoJ0U/view?usp=sharing**
 
 
 
