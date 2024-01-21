@@ -51,9 +51,11 @@ Lifestyle
 
 # Working Links of Project:
 
-- **Web Application hosted on Azure: https://foodblogproject.azurewebsites.net/**
+- **Web Application hosted on Azure: https://foodblogprojects.azurewebsites.net/**
   
 - **Github Repository : https://github.com/aakashrsethi/vaibhavi.git**
+- 
+- ** Project URL : https://drive.google.com/file/d/1VdL0lUG_N1l7SYUndJRUWA9r_PgiuC2B/view?usp=sharing**
   
 - **Code : [https://github.com/aakashrsethi/vaibhavi.git**](https://github.com/aakashrsethi/vaibhavi.git)**
   
